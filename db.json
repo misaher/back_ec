@@ -1,0 +1,25 @@
+{
+  "proveedores": [
+    {
+      "id": "cc5a6879-079f-421f-9731-d7a0c791eec1",
+      "nombre": "Bimbo",
+      "ubicacion": "Cuidad de Mexico",
+      "tipo": "premiun",
+      "descripcion": "Nuestro encargado de productos de calidad"
+    },
+    {
+      "id": "a8b62d5a-ed5c-4645-aeb3-5ed5a1398896",
+      "nombre": "Pan Alegre",
+      "ubicacion": "Queretaro",
+      "tipo": "premiun",
+      "descripcion": "Pan de  calidad"
+    },
+    {
+      "id": "f4b1be5f-1ba1-4c4c-9b90-4afb216c78bc",
+      "nombre": "Merancia de primera",
+      "ubicacion": "Queretaro",
+      "tipo": "premiun",
+      "descripcion": "Pan de  calidad"
+    }
+  ]
+}
